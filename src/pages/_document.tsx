@@ -22,6 +22,12 @@ export default function Document() {
         <link rel="apple-touch-icon" href="images/icons/icon-192x192.png" />
         {/* Microsoft App 컬러 메타태그 */}
         <meta name="msapplication-TileColor" content="#3b34ff" />
+        {/* splash */}
+        <link
+          rel="apple-touch-startup-image"
+          href="/assets/splash/splash.png"
+          media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+        ></link>
       </Head>
       <body>
         <Main />
