@@ -20,5 +20,7 @@
     "react-dom": "18.2.0",
     "typescript": "5.2.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "next-compose-plugins": "^2.2.1"
+  }
 }
