@@ -17,7 +17,7 @@ module.exports = withPlugins(
         },
       },
     ],
-    // 추가 플러그인 필요시 작성
+    // 추가 플러그인 작성
   ],
   nextConfig
 );
