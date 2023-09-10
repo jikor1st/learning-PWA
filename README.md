@@ -19,3 +19,5 @@ https://velog.io/@teihong93/PWA-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9B%8C%EC%BB%A4
 https://web.dev/app-like-pwas/
 
 https://noogoonaa.tistory.com/110
+
+https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app
